@@ -9,12 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlexWasHeree/notecast-editor-app/releases/latest/download/NoteCast-Editor.dmg"><b>Download for macOS</b></a>
+  <a href="https://alexvictor7.gumroad.com/l/notecasteditor"><b>Download for macOS</b></a>
+  ·
+  <a href="https://notecasteditor.vercel.app">Website</a>
   ·
   <code>brew install --cask alexwasheree/tap/notecast-editor</code>
 </p>
 
-<!-- Demo video: edit this file on github.com and drag notecast-demo.mov here — GitHub turns it into an inline player. -->
+<!-- Demo video: edit this file on github.com and drag notecast-demo.mov here — GitHub turns it into an inline player. Then remove the fallback link below. -->
+
+<p align="center"><a href="https://notecasteditor.vercel.app/#mod-demo">▶ Watch the demo</a></p>
 
 ---
 
@@ -41,7 +45,7 @@ I built it because I kept losing thoughts in the time it took to open a notes ap
 brew install --cask alexwasheree/tap/notecast-editor
 ```
 
-**Or download** the [latest DMG](https://github.com/AlexWasHeree/notecast-editor-app/releases/latest/download/NoteCast-Editor.dmg) and drag NoteCast Editor into Applications.
+**Or download** it from [Gumroad](https://alexvictor7.gumroad.com/l/notecasteditor) (free), or grab the [latest DMG](https://github.com/AlexWasHeree/notecast-editor-app/releases/latest/download/NoteCast-Editor.dmg) directly, and drag NoteCast Editor into Applications.
 
 ### First launch
 
@@ -54,6 +58,8 @@ NoteCast Editor isn't notarized by Apple yet, so macOS blocks it the first time:
 Then press **⌘⇧Space**.
 
 **Requirements:** macOS 13 Ventura or later, Apple silicon (M1 or newer).
+
+NoteCast Editor starts at login so the shortcut is always ready. You can turn that off in Settings (⌘,).
 
 ## Shortcuts
 
@@ -71,7 +77,7 @@ Every global shortcut can be changed in Settings (⌘,).
 
 ## Early access
 
-This is early. Expect rough edges — and frequent updates. If something breaks, feels off, or is missing, use the **feedback button** (the speech bubble at the top of the notepad). It comes straight to me, and it's what decides what gets built next.
+This is early. Expect rough edges — and frequent updates. If something breaks, feels off, or is missing, use the **feedback button** (the speech bubble at the top of the notepad). It comes straight to me, and it's what decides what gets built next. You can also [open an issue](https://github.com/AlexWasHeree/notecast-editor-app/issues) here.
 
 Updates: `brew upgrade --cask notecast-editor`, or grab the new DMG from [Releases](https://github.com/AlexWasHeree/notecast-editor-app/releases).
 
