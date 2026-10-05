@@ -57,7 +57,7 @@ NoteCast Editor isn't notarized by Apple yet, so macOS blocks it the first time:
 
 Then press **⌘⇧Space**.
 
-**Requirements:** macOS 13 Ventura or later, Apple silicon (M1 or newer).
+**Requirements:** macOS 13 Ventura or later, on Apple silicon or Intel.
 
 NoteCast Editor starts at login so the shortcut is always ready. You can turn that off in Settings (⌘,).
 
