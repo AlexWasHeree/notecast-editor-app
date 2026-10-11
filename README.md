@@ -35,7 +35,7 @@ I built it because I kept losing thoughts in the time it took to open a notes ap
 - **Raw mode** for plain-text notes that shouldn't be parsed as markdown
 - **Import a folder** of `.md` / `.txt` files (an Obsidian vault, for example) — subfolders become themes
 - **Export** a note, a theme, or everything back to markdown files
-- **Local only** — your notes live in a SQLite file on your Mac. No account, no cloud, no tracking
+- **Local only** — your notes live in a SQLite file on your Mac. No account, no cloud, no tracking. The only network calls are a once-a-day check for new versions on GitHub (can be turned off in Settings) and the feedback form, when you send it.
 
 ## Install
 
