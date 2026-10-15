@@ -75,9 +75,9 @@ NoteCast Editor starts at login so the shortcut is always ready. You can turn th
 
 Every global shortcut can be changed in Settings (⌘,).
 
-## Early access
+## Beta
 
-This is early. Expect rough edges — and frequent updates. If something breaks, feels off, or is missing, use the **feedback button** (the speech bubble at the top of the notepad). It comes straight to me, and it's what decides what gets built next. You can also [open an issue](https://github.com/AlexWasHeree/notecast-editor-app/issues) here.
+NoteCast Editor is in beta. Expect rough edges — and frequent updates. If something breaks, feels off, or is missing, use the **feedback button** (the speech bubble at the top of the notepad). It comes straight to me, and it's what decides what gets built next. You can also [open an issue](https://github.com/AlexWasHeree/notecast-editor-app/issues) here.
 
 Updates: `brew upgrade --cask notecast-editor`, or grab the new DMG from [Releases](https://github.com/AlexWasHeree/notecast-editor-app/releases).
 
