@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alexvictor7.gumroad.com/l/notecasteditor"><b>Download for macOS</b></a>
+  <a href="https://github.com/AlexWasHeree/notecast-editor-app/releases/latest/download/NoteCast-Editor.dmg"><b>Download for macOS</b></a>
   ·
   <a href="https://notecasteditor.vercel.app">Website</a>
   ·
@@ -45,7 +45,7 @@ I built it because I kept losing thoughts in the time it took to open a notes ap
 brew install --cask alexwasheree/tap/notecast-editor
 ```
 
-**Or download** it from [Gumroad](https://alexvictor7.gumroad.com/l/notecasteditor) (free), or grab the [latest DMG](https://github.com/AlexWasHeree/notecast-editor-app/releases/latest/download/NoteCast-Editor.dmg) directly, and drag NoteCast Editor into Applications.
+**Or download** the [latest DMG](https://github.com/AlexWasHeree/notecast-editor-app/releases/latest/download/NoteCast-Editor.dmg) and drag NoteCast Editor into Applications.
 
 ### First launch
 
